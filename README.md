@@ -5,6 +5,7 @@
 
 2. Election-Audit Results:
     -There were a total of 369,711 votes cast in this congretional election.
+    ![Total Vote Count] (https://github.com/abeituni/Election_Analysis/blob/main/code%20images/totalvotecount.png)
     -The county of Denver had the highest number of votes at 306,055; 
     82.8% of the vote. Jefferson county had the second highest number of votes at 38,855; 10.5% of the vote. Arapahoe county had the smallest turn out of voters at 24,801; 6.7% of the vote.
     -Denver county had the highest number of votes at 306,055.
